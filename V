@@ -1,6 +1,8 @@
 
+#EXTM3U
 
-
+#EXTINF:-1 group-title="MOVIE SATURDAY",SENTOT SEGORO 
+https://g95mskivcjeu.milocdn.com/hls2/01/04425/kqampwdywdd2_n/index-v1-a1.m3u8?t=kTplfO5F2Gs21_HGFDXDwDx1SD-TCAakPUn1YTpleg0&s=1747036025&e=129600&f=22128644&srv=VpIIvpRD7cO4Q&i=0.4&sp=500&p1=VpIIvpRD7cO4Q&p2=VpIIvpRD7cO4Q&asn=7713
 
 
 #EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://i.pinimg.com/474x/d2/04/ad/d204ad8eac477526bbeccffdac0cb799.jpg",The Fast And The Furious 3 - Tokyo Drift 
