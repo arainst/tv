@@ -2908,29 +2908,13 @@ http://iptvtree.net:8080/F15554/Tve5ZWQEd485/162138
 http://iptvtree.net:8080/live/F28312/cc1dc138/162138.ts
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN", CH 1 
-https://bintangstreaming.my.id/connect/index.m3u8?channel=live4&type=m3u8
-#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli1.m3u8
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli1.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN", CH 2 
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://gaje0525.edgemaxcdn.org/live/m5l1/playlist.m3u8
-#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli2.m3u8
-#EXTINF:-1 group-title="☆INDO EVEN" tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg",CH 3
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://gaje0525.edgemaxcdn.org/live/m5l2/playlist.m3u8
-#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli4.m3u8
-#EXTINF:-1 group-title="☆INDO EVEN" tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg",CH 4
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://gaje0525.edgemaxcdn.org/live/m5l4/playlist.m3u8
-#EXTINF:-1 group-title="☆INDO EVEN" tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg",CH 5
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://gaje0525.edgemaxcdn.org/live/m5l5/playlist.m3u8
-#EXTINF:-1 group-title="☆INDO EVEN" tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg",CH 6
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://gaje0525.edgemaxcdn.org/live/m4l1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN",CH 7
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://gaje0525.edgemaxcdn.org/live/m5l3/playlist.m3u8
-#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli6.m3u8
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli2.m3u8
+#EXTINF:-1 group-title="☆INDO EVEN" tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg", CH 4
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli4.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN",CH 5
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN", VOLI 
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli8.m3u8
@@ -3169,10 +3153,9 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
 
 #EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", CH3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
-https://damp-mouse-75ea.pejan97800.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
+http://qtvid.pw/starhub/hubtok.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier1/output/manifest.mpd
 
 #EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", CH4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -3187,6 +3170,15 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9183&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
+
+#EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EVEN ONLY
+https://wahyu1ptv.pages.dev/OptusSport1-HD.m3u8
+#EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EVEN ONLY
+https://wahyu1ptv.pages.dev/OptusSport2-HD.m3u8
+#EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EVEN ONLY
+https://wahyu1ptv.pages.dev/OptusSport3-HD.m3u8
+#EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", EVEN ONLY
+https://wahyu1ptv.pages.dev/OptusSport4-HD.m3u8
 
 ======================================= LIGA SPANYOL ===========================================
 
@@ -3355,73 +3347,58 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/i2pcjr4pe5/out/v1/9
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="MOVIE SATURDAY",1. GUNAKAN PLAYER EXTERNAL /VLC PLAYER DOWNLOAD DI PLAYSTORE ATAU APTOIDE TV
 https://drive.usercontent.google.com/download?id=1bl_Hvn8EQkZz8vw-kkzQ3QEhaDaU9aUl&export=download
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/d0/0d/a5/d00da526bb96c862d2c6003eb48ddd53.jpg" group-title="MOVIE SATURDAY", Together (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/02/Together.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/43/8c/13/438c1355e7b10db72886ff016298d666.jpg" group-title="MOVIE SATURDAY", Sorry, Baby (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/02/Sorry.Baby.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/25/be/62/25be62cb6325b7bfbb8bdae05a0e8252.jpg" group-title="MOVIE SATURDAY", Tim Travers & the Time Travelers Paradox (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/02/Tim.Travers.the.Time.Travelers.Paradox.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/d4/a9/6e/d4a96eb19b4cc61027c80ca78c506fc7.jpg" group-title="MOVIE SATURDAY", The Life of Chuck (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/02/The.Life.of.Chuck.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/34/d8/c4/34d8c4a4b04907794ca842f5fae5c98d.jpg" group-title="MOVIE SATURDAY", Detective Dee The Mystery (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/02/Detective.Dee.The.Mystery.of.a.Ghost.Town.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/70/ed/b7/70edb747f2a4542f4685bbd1320530d6.jpg" group-title="MOVIE SATURDAY", King Ivory (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/02/King.Ivory.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/1d/fd/bd/1dfdbd3e47c3df2d28ce4ae442053e99.jpg" group-title="MOVIE SATURDAY", Winter Crossing (2024)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/01/Winter.Crossing.2024.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/c3/c7/b2/c3c7b2c60e1a54d6aa46513e10d8d2cc.jpg" group-title="MOVIE SATURDAY", Undercover (2024)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/01/Undercover.2024.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/9a/cd/5a/9acd5a025ef6fe7d0215662925483f0a.jpg" group-title="MOVIE SATURDAY", Monster Island (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jul/17/Monster.Island.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/15/db/71/15db71ae7dfcd8a81b4d24fd1535e13d.jpg" group-title="MOVIE SATURDAY", Veil of chu 2025
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jul/16/Veil.of.Chu.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/51/e3/b8/51e3b899267c7d5ddf40f7fddf2db694.jpg" group-title="MOVIE SATURDAY", 28 Years Later (2025) Hd
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/01/28.Years.Later.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/8b/bd/63/8bbd63ec67e9d624080171a8ea165ff6.jpg" group-title="MOVIE SATURDAY", Woken
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jul/12/Woken.2024.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/dd/0e/1edd0ea7801ca2506e5b4dd2e8c60355.jpg" group-title="MOVIE SATURDAY", Jurassic World Rebirth (2025) Fhd
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/02/Jurassic.World.Rebirth.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://i.pinimg.com/236x/b1/1e/e7/b11ee750b438b1c5bc8e9189e1358e81.jpg", Invincible Swordsman 2025
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/05/Invincible.Swordsman.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fAXDQny8kEquc1BImiQHhYMGSsW.jpg",The Damned 2025
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/14/The.Damned.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fhx261QNON8M7oMnVBy8jzSwxEZ.jpg",Evil of Rat King 2025
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/05/Evil.of.The.Rat.Rat.King.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hgOAwoJv2l8HF22lidIslOp2Nhf.jpg", G. Iglesias  Legend of Fluffy 2025
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/06/Gabriel.Iglesias.Legend.of.Fluffy.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5iETr4mNokfjQ1KSszOkwwXlMOE.jpg",Fateh 2025 cam
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/11/Fateh.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kzZjCmum13xtqEGNZ9GUvrIlJoO.jpg",Life of Belle 2025
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/11/Life.of.Belle.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3L3l6LsiLGHkTG4RFB2aBA6BttB.jpg",Back in Action 2025
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/11/Back.in.Action.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/v313aUGmMNj6yNveaiQXysBmjVS.jpg",Alarum 2025
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/11/Alarum.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vG0MA5LJyfqZhLBVcKp7yW14L7O.jpg", Bear Lake Murders 2025
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/14/The.Bear.Lake.Murders.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/TVvIyCsFCmLk9MRLbAZi4X8f32.jpg",Sniper The Last Stand 2025
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/15/Sniper.The.Last.Stand.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/03/d3/ce/03d3ceae7937b2f4f4fbb2ee288d1852.jpg" group-title="MOVIE SATURDAY", A LEGEND 2025 
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/19/A.Legend.2024.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/03/d3/ce/03d3ceae7937b2f4f4fbb2ee288d1852.jpg" group-title="MOVIE SATURDAY", SONIC THE HEDGE III 
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/14/Sonic.the.Hedgehog.3.2024.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/03/d3/ce/03d3ceae7937b2f4f4fbb2ee288d1852.jpg" group-title="MOVIE SATURDAY",INTO THE DEEP
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/16/Into.the.Deep.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lk86c9cmNCXKX44jhDQpcRzK3Gp.jpg", Savior of the World 2025
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/11/The.Savior.of.the.World.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://i.pinimg.com/236x/65/b8/b9/65b8b9d1138bf46c585f854160605e3f.jpg", Valiant One (2025) 
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/12/Valiant.One.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://i.pinimg.com/236x/ef/69/ac/ef69ace143a3870f889fb1f7ad222db7.jpg", The Bayou (2025) 
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/12/The.Bayou.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://i.pinimg.com/236x/6a/7e/00/6a7e00b2e0eacab4a5f1c11ef54da3a8.jpg", Popeye’s Revenge (2025)
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/11/Popeyes.Revenge.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://i.pinimg.com/236x/da/87/dc/da87dccae89677e3c5603b5696124d32.jpg", Nanay, tatay (2024) philipn 
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/07/Nanay.tatay.2024.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://image.tmdb.org/t/p/original/moPP6DXUqeF9wis7oEtGOYPUCMO.jpg",Atlas 2024 
-https://storage.dewanonton.online/hls/a60ca151-acfa-43ec-88ca-ee9054c7c803.mp4/index.m3u8
-#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/elKf8Y5yi6Rl6teKsrQg0GAwaQD.jpg",Werewolves 2024 
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/14/Werewolves.2024.mp4/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/46/94/9a/46949a7537f67a4fd02e217257b2ec82.jpg" group-title="MOVIE SATURDAY", Halabala 2025
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/05/Halabala.2025.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/c4/a7/c1/c4a7c1e29c842cb7e088e6a59ce6d873.jpg" group-title="MOVIE SATURDAY", Ba 
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/06/Ba.2024.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/ba/17/f3/ba17f30fa880dc6a92a10dc1ba5a28ec.jpg" group-title="MOVIE SATURDAY", Algea God of Pain 
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/06/Algea.God.of.Pain.2024.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/74/c4/aa/74c4aacad977994c42c11ef86cececfd.jpg" group-title="MOVIE SATURDAY", Eddington (2025)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/06/Eddington.2025.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/fc/56/b7/fc56b71a9cebb9b4a7715b2b0345a825.jpg" group-title="MOVIE SATURDAY", Hostile Takeover (2025)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/06/Hostile.Takeover.2025.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/52/ea/aa/52eaaa81dde2fac8cf9274868c55c2c4.jpg" group-title="MOVIE SATURDAY", Uppercut (2025)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/06/Uppercut.2025.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/7b/39/4f/7b394f64a2fef924c8fd3e28a4438f4c.jpg" group-title="MOVIE SATURDAY", Plainclothes (2025)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/06/Plainclothes.2025.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/7d/d9/3a/7dd93adf63be77312db88047a8ba7e1a.jpg" group-title="MOVIE SATURDAY", Hunting Daze
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/05/Hunting.Daze.2024.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/c2/20/f1/c220f13811f266f5b62aeec1db97feaf.jpg" group-title="MOVIE SATURDAY", A Gilded Game (2025)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/03/A.Gilded.Game.2025.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/80/ba/c2/80bac2bf16050c866bc8c6980a063433.jpg" group-title="MOVIE SATURDAY", Ultimate Mission (2025)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/03/Ultimate.Mission.2025.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/6c/35/3f/6c353f0e7d0dd4c25a0d0246850622f9.jpg" group-title="MOVIE SATURDAY", Night Carnage (2025)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/03/Night.Carnage.2025.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/28/66/f7/2866f7020bcb765fe4cad669244812b7.jpg" group-title="MOVIE SATURDAY", Harvest (2025)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/03/Harvest.2025.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/f6/50/be/f650be8d2231a51d82713547dd2ab21c.jpg" group-title="MOVIE SATURDAY", The Occupant (2025)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/03/The.Occupant.2025.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/1c/fb/4e/1cfb4e7a5fe17b203997ce5f8872a761.jpg" group-title="MOVIE SATURDAY", Shaman (2025)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/03/Shaman.2025.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/c2/8c/53/c28c530d63378678c43eed4cc7cab878.jpg" group-title="MOVIE SATURDAY", Barron’s Cove (2025)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/02/Barrons.Cove.2025.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/fe/e8/2d/fee82d16298b4057d9d16351466cd30a.jpg" group-title="MOVIE SATURDAY", High Five (2025)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/02/High.Five.2025.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/56/92/fc/5692fca1e2fbdb3d4fdf942633e6e590.jpg" group-title="MOVIE SATURDAY", Unspoken (2023)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/01/Unspoken.2023.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/10/e8/f6/10e8f68c5a64a3d214e94fb53d57a8a3.jpg" group-title="MOVIE SATURDAY", Trader
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Aug/06/Trader.2022.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/f8/c2/73/f8c273515dfcbd9090e8f5e51c97af04.jpg" group-title="MOVIE SATURDAY", Aberrance
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Mar/13/Aberrance.2022.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/99/30/d6/9930d6a3a3bd1cb59f959dbb5d211ede.jpg" group-title="MOVIE SATURDAY", Amahat
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Mar/02/Amanat.2022.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/e2/33/d5/e233d5fba64cc9f9323ccda5ffb12c5c.jpg" group-title="MOVIE SATURDAY", Lighting up the Stars
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Feb/03/Lighting.up.the.Stars.2022.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/6b/e2/22/6be222d2eba281bb5d82b76a0a7b1d78.jpg" group-title="MOVIE SATURDAY", The Voyagers
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jan/16/The.Voyagers.2022.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/be/5b/5e/be5b5eb7fecf31951016c286c396ae99.jpg" group-title="MOVIE SATURDAY", Fragments of the Last Will
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jan/11/Fragments.of.the.Last.Will.2022.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/32/36/92/323692cf4ff413ec56f8701649793527.jpg" group-title="MOVIE SATURDAY", The Silent Planet 
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/05/The.Silent.Planet.2024.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/09/23/22/092322c5cd3642d02e6629ee59b2b458.jpg" group-title="MOVIE SATURDAY", Last Breath 
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/10/Last.Breath.2025.mp4/tracks-v1a1/mono.m3u8
+e.jpg" group-title="MOVIE SATURDAY", Counterstrike 
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/01/Counterstrike.2025.mp4/tracks-v1a1/mono.m3u8
 
 ===================================== INFORMASI ===================================
 
